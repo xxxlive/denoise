@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/PyEMD_" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Signal-Separation-via-Finite-Impulse-Response" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ThinkDSP" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pyhht" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/savitzky_golay" vcs="Git" />
+  </component>
+</project>
